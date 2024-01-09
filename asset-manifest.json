@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estructura-datos/static/css/main.7b531263.css",
+    "main.js": "/estructura-datos/static/js/main.784c6d5b.js",
+    "index.html": "/estructura-datos/index.html",
+    "main.7b531263.css.map": "/estructura-datos/static/css/main.7b531263.css.map",
+    "main.784c6d5b.js.map": "/estructura-datos/static/js/main.784c6d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b531263.css",
+    "static/js/main.784c6d5b.js"
+  ]
+}
